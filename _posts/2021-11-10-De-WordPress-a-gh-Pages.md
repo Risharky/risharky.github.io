@@ -8,5 +8,5 @@ en adición a lo anterior es muy difícil pegar o agregar varias imágenes de un
 
 Con GitHub y su extensión gh-Pages es muy sencillo usando  el repositorio  "[Jekyll NOW](https://github.com/barryclark/jekyll-now)" con el cual solo es leer las instrucciones 5 minutos después o menos, ya hay pagina, los post al ser en Markdown y la necesidad de mejorar mis habilidades en este lenguaje de escritura para mejorar en informes y reporte de datos, se hace muy fácil publicar incluso es muy fácil de migrar desde WordPress.
 
-PD: iré publicando herramientas y scripts de cosas que he venido aprendiendo en Python 
+PD: Iré publicando herramientas y scripts de cosas que he venido aprendiendo en Python 
 
