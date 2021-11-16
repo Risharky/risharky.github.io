@@ -1,6 +1,6 @@
 # De WordPress a gh-Pages
 
-_________________________________________________________________________________________________________________________
+
 
 Este blog portafolio lo mantenía en WordPress porque en su momento lo considere fácil de manejar y de administrar e incluso intente monetizarlo, pero que paso?, WordPress paso, ya que no es fácil enviarle post, se requiere plugins o complementos para todo incluso para publicar es demasiado costoso ya que cada complemento ronda desde los 5 dólares en adelante y son pocos los complementos realmente útiles el tema de los dominios no puedes comprar el solo dominio tienes que comprar un plan la primera vez, lo intente por un a!no y a pesar de que varios post tenían visitas no era posible monetizar ya que eso requería complementos muy invasivos contra el lector cosa que considero no ética.
 
