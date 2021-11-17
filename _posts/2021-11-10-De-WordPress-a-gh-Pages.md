@@ -1,4 +1,3 @@
-# De WordPress a gh-Pages
 
 
 
