@@ -64,7 +64,7 @@ Google Maps actualmente es una herramienta que puede ser complementaria a muchas
 `text(cord$newX,cord$newY,datos$Estacion,cex=0.9,col=&quot;black&quot; )`
 
 
-<img class=" size-full wp-image-113 aligncenter" src="https://risharkygis.files.wordpress.com/2016/10/mapa.png" alt="mapa" width="277" height="345" />Este seria el resultado del codigo anterior.
+<img class=" size-full wp-image-113 aligncenter" src="/images/WP_media/2016/10/mapa.png" alt="mapa" width="277" height="345" />Este seria el resultado del codigo anterior.
 
 <p style="text-align:justify;">Si desean saber más sobre esta librería pueden revisar esta dirección <a href="https://cran.r-project.org/web/packages/RgoogleMaps/index.html">https://cran.r-project.org/web/packages/RgoogleMaps/index.html</a> cuenta con la documentación principal de la librería y en caso de otro ejemplo pueden revisar este enlace <a href="https://www.r-bloggers.com/heatmap-of-toronto-traffic-signals-using-rgooglemaps/">https://www.r-bloggers.com/heatmap-of-toronto-traffic-signals-using-rgooglemaps/</a></p>
 <p style="text-align:justify;">Está la opción de estadística espacial, usan el lenguaje de programación R, como elemento principal de enseñanza.</p>
