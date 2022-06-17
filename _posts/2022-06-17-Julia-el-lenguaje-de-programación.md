@@ -8,7 +8,7 @@ categories: [GIS, Julia]
 
 ---
 
-# 
+
 
 [Julia](https://julialang.org/) es un lenguaje de programación creado en 2012 es relativamente joven a comparación de otros lenguajes de programación multi paradigma o multi propósito este en teoría es posible crear aplicaciones de escritorio, aplicaciones web entre otras cosas, está teniendo un interesante desarrollo en el campo de la ciencia y análisis de datos.
 
