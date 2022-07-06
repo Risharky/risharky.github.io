@@ -8,8 +8,6 @@ categories: [GIS, Julia]
 
 ---
 
-
-
 [Julia](https://julialang.org/) es un lenguaje de programación creado en 2012 es relativamente joven a comparación de otros lenguajes de programación multi paradigma o multi propósito este en teoría es posible crear aplicaciones de escritorio, aplicaciones web entre otras cosas, está teniendo un interesante desarrollo en el campo de la ciencia y análisis de datos.
 
 En datos tiene dos framework bastantes interesantes uno es [Flux.jl]([GitHub - FluxML/Flux.jl: Relax! Flux is the ML library that doesn&#39;t make you tensor](https://github.com/FluxML/Flux.jl))  para machine learning y para data science (similar a pandas o algunas funciones o paquetes de R)  [Dataframes.jl]([GitHub - JuliaData/DataFrames.jl: In-memory tabular data in Julia](https://github.com/JuliaData/DataFrames.jl)) , entre otros paquetes tambien tiene muchas opciones de visualización.
