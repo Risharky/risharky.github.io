@@ -1,11 +1,14 @@
 ---
+
 layout: post
 title: Calcular Identificador o contador de elementos en un Shapefile en ArcGIS
 date: 2017-05-19 20:42
-author: risharky
+author: Ricardo Rodriguez Otero
 comments: true
 categories: [ArcGIS, Python, Python Scripting, Tutoriales]
+
 ---
+
 En algunas ocasiones se necesita crear shapefiles numerados en orden ya sea como un identificador u otro uso.
 
 Para eso creamos en la tabla de atributos del archivo un nuevo campo como se ve en la imagen.

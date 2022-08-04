@@ -2,7 +2,7 @@
 layout: post
 title: Mapas de ciudades usando redes viales de OSM
 date: 2020-10-16 20:28
-author: risharky
+author: 
 comments: true
 categories: [GIS, python]
 

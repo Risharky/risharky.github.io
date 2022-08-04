@@ -2,7 +2,7 @@
 layout: post
 title: Julia el lenguaje de programación
 date: 2022-06-17 13:00
-author: risharky
+author: Ricardo Rodriguez Otero
 comments: true
 categories: [GIS, Julia]
 

@@ -2,9 +2,9 @@
 layout: post
 title: De WordPress a gh Pages
 date: 2021-11-10 20:28
-author: risharky
+author: 
 comments: true
-categories: []
+categories: [github]
 
 ---
 
